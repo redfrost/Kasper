@@ -1,6 +1,6 @@
 # Casper custom
 
-The default theme for [Ghost](http://github.com/tryghost/ghost/).
+A Customised version of the default theme for [Ghost](http://github.com/tryghost/ghost/).
 
 ## Copyright & License
 
